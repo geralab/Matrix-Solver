@@ -1,0 +1,7 @@
+1 -1 -1 | 2
+
+3 -3 2 | 16
+
+2 -1 1 | 9
+
+Pivot element is equal to zero, can't find solution using Naive Guassian method

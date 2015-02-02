@@ -1,0 +1,7 @@
+1 2 3 | 1
+
+2 3 4 | 0
+
+3 4 5 | -1
+
+Pivot element 0 and Rank Deficient  - Naive Guassian

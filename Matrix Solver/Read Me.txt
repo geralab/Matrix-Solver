@@ -1,0 +1,13 @@
+File input:   input files format d r c
+                                                             a1..
+                                                             an..
+                                                             b1
+                                                             bn
+                                                                :
+                                                                :
+                                                                :
+info:
+ Use the menu prompts to gain knowledge on how to run the program
+ you may repeat the menu at anytime by entering the appropiate number
+ you can create output files dynamically or use existing files to store solutions and print matrices or you can print them to the screen
+ you must however create input files prior to run-time
